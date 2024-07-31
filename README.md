@@ -13,10 +13,11 @@ MODULE 2: Prediction from live data. Random Forest, a machine learning model, ad
 
 This is test file Step-by-Step Code Execution Instructions:
 
-Clone the repository.
-Open the terminal
-Run the command " pip install -r requirements.txt"
-Run the command "python manage.py makemigrations"
-Run the command "python manage.py migrate"
-Run the command "python manage.py runserver"
-The server would have been started at your local host http://127.0.0.1:8000/.
+1. Clone the repository.
+2. Open the terminal
+3. Run the command " pip install -r requirements.txt"
+4. Run the command "python manage.py makemigrations"
+5. Run the command "python manage.py migrate"
+6. Run the command "python manage.py runserver"
+7. The server would have been started at your local host http://127.0.0.1:8000/.
+   
